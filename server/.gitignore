@@ -1,0 +1,68 @@
+# --------------------
+# Dependencies
+# --------------------
+node_modules/
+
+# --------------------
+# Environment files
+# --------------------
+.env
+.env.*
+# But allow the sample file
+!.env.sample
+
+# --------------------
+# Logs
+# --------------------
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# --------------------
+# Runtime data
+# --------------------
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# --------------------
+# Coverage / test
+# --------------------
+coverage/
+.nyc_output/
+
+# --------------------
+# Build output
+# --------------------
+dist/
+build/
+/prisma/migrations/
+
+# --------------------
+# OS files
+# --------------------
+.DS_Store
+Thumbs.db
+
+# --------------------
+# IDE / Editor
+# --------------------
+.vscode/
+.idea/
+*.swp
+
+# --------------------
+# Cache
+# --------------------
+.cache/
+.eslintcache
+
+# --------------------
+# Optional PM2
+# --------------------
+pm2.log
+ecosystem.config.js
