@@ -16,6 +16,12 @@ Users can search email history, generate AI replies, draft follow-up emails, and
   - Email threads
   - Attachments (PDF, DOCX, etc.)
 
+## 📸 Demo Image
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=10-Q9uSgZSCVV6Jt-2laEBZ2x7szUk-nY" width="50%" />
+</p>
+
 ## AI Email Assistant
 - Chat with your inbox
 - Generate email replies
